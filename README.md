@@ -11,3 +11,5 @@ python Cruppy.py
 # Operation
 
 <li> Windows </li>
+<li> Linux </li>
+<li> Mac </li>
