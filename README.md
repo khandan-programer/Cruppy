@@ -2,7 +2,7 @@
 
 A tool for gathering information
 
-#Instalation
+# Instalation
 
 pip install -r requirments.txt
 
