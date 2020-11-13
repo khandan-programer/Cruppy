@@ -4,9 +4,11 @@ A tool for gathering information
 
 # Instalation
 
-pip install -r requirments.txt
+ 1 <li> Clone it: `https://github.com/khandan-programer/Cruppy.git` </li>
 
-python Cruppy.py
+<li> pip install -r requirments.txt </li>
+
+<li> python Cruppy.py </li>
 
 # Operation
 
