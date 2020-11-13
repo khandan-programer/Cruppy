@@ -4,7 +4,7 @@ A tool for gathering information
 
 # Instalation
 
- 1 <li> Clone it: `https://github.com/khandan-programer/Cruppy.git` </li>
+<li> Clone it: `https://github.com/khandan-programer/Cruppy.git` </li>
 
 <li> pip install -r requirments.txt </li>
 
